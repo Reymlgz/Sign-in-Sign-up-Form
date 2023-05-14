@@ -10,7 +10,7 @@ A live demo of the form can be found [here.]()
 To get started, simply clone or download the repository to your local machine:
 
 ```
-git clone 
+git clone https://github.com/Reymlgz/Sign-in-Sign-up-Form.git
 ```
 # Customization
 
